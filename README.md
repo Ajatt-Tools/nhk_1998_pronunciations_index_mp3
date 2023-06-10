@@ -1,4 +1,4 @@
-# NHK-1998 pronunciations index
+# NHK-1998 pronunciations index (mp3 files)
 
 This an audio source for [AJT Japanese](https://ankiweb.net/shared/info/1344485230).
 It maps words to their pronunciations.
